@@ -15,7 +15,7 @@ It focuses on Charlie Kirk’s Twitter network, analyzing 500K+ tweets to uncove
 
 Goal: Identify the key factors influencing tweet engagement (likes, retweets, replies) and build a model to predict tweet virality.
 
-Dataset :
+Dataset : https://www.kaggle.com/datasets/bwandowando/charlie-kirk-twitter-dataset
 
 Source: Tweets from Charlie Kirk’s account and related user interactions.
 Records: ~500,000 tweets
